@@ -1,0 +1,14 @@
+{
+  "name": "biz2credit-demo",
+  "version": "1.0.0",
+  "description": "geo loction demo module ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sachin tyagi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
