@@ -1,2 +1,1 @@
-it is just a demo package ...
-not used for production
+Demo package ... Biz2credits
